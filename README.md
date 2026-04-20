@@ -31,7 +31,7 @@ A pattern like `\d{3}-\d{4}` will immediately show you:
 Single HTML file, nothing to install.
 
 ```bash
-git clone https://github.com/YOURUSERNAME/regexa.git
+git clone https://github.com/ManuCovr/regexa.git
 cd regexa
 npx serve .
 ```
@@ -47,7 +47,7 @@ Or just open `index.html` directly in your browser.
 
 1. Fork the repo
 2. Go to Settings → Pages → deploy from `main`
-3. Live at `https://YOURUSERNAME.github.io/regexa`
+3. Live at `https://ManuCovr.github.io/regexa`
 
 ## License
 
@@ -56,7 +56,7 @@ MIT
 ```
 MIT License
 
-Copyright (c) 2025 YOURNAME
+Copyright (c) 2025 Manuel Bernardes
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
