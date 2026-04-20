@@ -12,7 +12,7 @@ Regexa breaks down any regex pattern token by token and explains each part in pl
 
 ## How to use it
 
-Just open the site and start typing. No setup, no account.
+Just open the site and start typing.
 
 Live site: `https://ManuCovr.github.io/regexa`
 
@@ -40,7 +40,7 @@ Or just open `index.html` directly in your browser.
 
 ## Built with
 
-- Vanilla HTML, CSS, JS — no frameworks, no dependencies
+- Vanilla HTML, CSS, JS
 - All regex parsing and match highlighting done with native browser APIs
 
 ## Fork it
