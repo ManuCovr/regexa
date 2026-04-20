@@ -1,6 +1,6 @@
 # Regexa
 
-I built this because I kept copy-pasting regex from Stack Overflow without actually understanding what it did. Regexa breaks down any regex pattern token by token and explains each part in plain English, while highlighting matches live as you type.
+Regexa breaks down any regex pattern token by token and explains each part in plain English, while highlighting matches live as you type.
 
 ## What it does
 
