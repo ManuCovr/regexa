@@ -14,7 +14,7 @@ I built this because I kept copy-pasting regex from Stack Overflow without actua
 
 Just open the site and start typing. No setup, no account.
 
-Live site: `https://YOURUSERNAME.github.io/regexa`
+Live site: `https://ManuCovr.github.io/regexa`
 
 A pattern like `\d{3}-\d{4}` will immediately show you:
 
